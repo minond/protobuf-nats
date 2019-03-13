@@ -11,6 +11,7 @@ require "protobuf/nats/client"
 require "protobuf/nats/server"
 require "protobuf/nats/runner"
 require "protobuf/nats/config"
+require "protobuf/nats/send"
 
 module Protobuf
   module Nats
